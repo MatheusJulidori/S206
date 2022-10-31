@@ -62,8 +62,9 @@ describe("Cenários de testes para o projeto prático 1", () => {
         cy.get(':nth-child(3) > .list-style-none > :nth-child(4) > .Link--secondary').click()
         cy.wait(3000)
         cy.get(':nth-child(2) > [data-for-os="windows"] > p > a').click()
-        cy.wait(3000)
+        cy.get('header > .container-new > :nth-child(1) > img').should('be.visible')//Forçar reload
         cy.verifyDownload('GitHubDesktopSetup-x64.msi',{timeout:100000,interval:1000})
+        cy.get('header > .container-new > :nth-child(1) > img').should('be.visible')//Forçar reload
     })
 
 })
