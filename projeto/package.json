@@ -3,6 +3,7 @@
     "cypress": "^10.11.0"
   },
   "devDependencies": {
+    "cy-verify-downloads": "^0.1.11",
     "cypress-mochawesome-reporter": "^3.2.3"
   }
 }
