@@ -6,7 +6,7 @@ public class swRunner {
     
     @Karate.Test
     Karate testStarWars() {
-        return Karate.run("star_wars").relativeTo(getClass());
+        return Karate.run("sw").relativeTo(getClass());
     }    
 
 }
