@@ -7,3 +7,997 @@
 18:22:10.392 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
 18:24:38.700 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
 18:25:07.775 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:28:15.305 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:28:15.879 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:15.916 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:9
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:9
+18:28:15.940 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:15.943 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:18
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:18
+18:28:15.952 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:15.954 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:25
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:25
+18:28:15.965 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:15.966 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:31
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:31
+18:28:15.976 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:15.978 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:38
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:38
+18:28:15.991 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:15.993 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:46
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:46
+18:28:48.934 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:28:49.433 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:49.459 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:9
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:9
+18:28:49.480 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:49.483 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:18
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:18
+18:28:49.498 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:49.501 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:25
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:25
+18:28:49.515 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:49.518 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:31
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:31
+18:28:49.532 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:49.535 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:38
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:38
+18:28:49.549 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:28:49.552 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:46
+Given url url_base
+>>>> js failed:
+01: url_base
+<<<<
+org.graalvm.polyglot.PolyglotException: ReferenceError: "url_base" is not defined
+- <js>.:program(Unnamed:1)
+
+classpath:projeto_2/lotr.feature:46
+18:30:48.532 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:30:48.989 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:30:49.158 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:30:50.473 [main] DEBUG com.intuit.karate - response time in milliseconds: 1282
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:30:50 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 95
+1 < X-RateLimit-Reset: 1669671061
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 260
+1 < ETag: W/"104-jNjsLom97rEwIuAO0gi264FS+6M"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":3,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"},{"name":"The Two Towers","_id":"5cf58077b53e011a64671583"},{"name":"The Return Of The King","_id":"5cf58080b53e011a64671584"}],"offset":0,"limit":1000,"page":1}
+18:30:50.480 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:13
+Then match $.docs[0].name = 'The Fellowship of the Ring'
+syntax error, expected '==' for match
+classpath:projeto_2/lotr.feature:13
+18:30:50.499 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:30:50.503 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/1
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:30:51.340 [main] DEBUG com.intuit.karate - response time in milliseconds: 837
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:30:51 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 94
+1 < X-RateLimit-Reset: 1669671061
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 51
+1 < ETag: W/"33-r0fzwzg3+n9frpB5Gq1yevB/XwU"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"success":false,"message":"Something went wrong."}
+18:30:51.344 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:22
+Then match $.message = 'Something went wrong'
+syntax error, expected '==' for match
+classpath:projeto_2/lotr.feature:22
+18:30:51.358 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:30:51.361 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/bookk/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:30:52.266 [main] DEBUG com.intuit.karate - response time in milliseconds: 905
+1 < 404
+1 < Date: Mon, 28 Nov 2022 21:30:52 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 93
+1 < X-RateLimit-Reset: 1669671061
+1 < Content-Type: text/html; charset=utf-8
+1 < Content-Length: 24
+1 < ETag: W/"18-PTodgi+inJyKLbdOCG00qQRvY1A"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+Endpoint does not exist.
+18:30:52.292 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:30:52.297 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf5805fb53e011a64671582
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:30:53.188 [main] DEBUG com.intuit.karate - response time in milliseconds: 890
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:30:53 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 92
+1 < X-RateLimit-Reset: 1669671061
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 134
+1 < ETag: W/"86-I7v5qLZewBm6kqSZlRMWqSKHi1k"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"}],"offset":0,"limit":1000,"page":1}
+18:30:53.196 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:35
+Then match $.docs.name = 'The Fellowship Of The Ring'
+syntax error, expected '==' for match
+classpath:projeto_2/lotr.feature:35
+18:30:53.221 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:30:53.230 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf58080b53e011a64671584/chapter/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:30:54.109 [main] DEBUG com.intuit.karate - response time in milliseconds: 877
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:30:53 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 91
+1 < X-RateLimit-Reset: 1669671061
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 1432
+1 < ETag: W/"598-11idL6r0cvK5mIjI4RqLhD9ZaXw"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":19,"pages":1,"docs":[{"chapterName":"Minas Tirith","_id":"6091b6d6d58360f988133bb6"},{"chapterName":"The Passing of the Grey Company","_id":"6091b6d6d58360f988133bb7"},{"chapterName":"The Muster of Rohan","_id":"6091b6d6d58360f988133bb8"},{"chapterName":"The Siege of Gondor","_id":"6091b6d6d58360f988133bb9"},{"chapterName":"The Ride of the Rohirrim","_id":"6091b6d6d58360f988133bba"},{"chapterName":"The Battle of the Pelennor Fields","_id":"6091b6d6d58360f988133bbb"},{"chapterName":"The Pyre of Denethor","_id":"6091b6d6d58360f988133bbc"},{"chapterName":"The Houses of Healing","_id":"6091b6d6d58360f988133bbd"},{"chapterName":"The Last Debate","_id":"6091b6d6d58360f988133bbe"},{"chapterName":"The Black Gate Opens","_id":"6091b6d6d58360f988133bbf"},{"chapterName":"The Tower of Cirith Ungol","_id":"6091b6d6d58360f988133bc0"},{"chapterName":"The Land of Shadow","_id":"6091b6d6d58360f988133bc1"},{"chapterName":"Mount Doom","_id":"6091b6d6d58360f988133bc2"},{"chapterName":"The Field of Cormallen","_id":"6091b6d6d58360f988133bc3"},{"chapterName":"The Steward and the King","_id":"6091b6d6d58360f988133bc4"},{"chapterName":"Many Partings","_id":"6091b6d6d58360f988133bc5"},{"chapterName":"Homeward Bound","_id":"6091b6d6d58360f988133bc6"},{"chapterName":"The Scouring of the Shire","_id":"6091b6d6d58360f988133bc7"},{"chapterName":"The Grey Havens","_id":"6091b6d6d58360f988133bc8"}],"offset":0,"limit":1000,"page":1}
+18:30:54.115 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:43
+Then match $.docs[5].chapterName = 'The Battle of the Pelennor Fields'
+syntax error, expected '==' for match
+classpath:projeto_2/lotr.feature:43
+18:30:54.142 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:30:54.146 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/quote/5cd96e05de30eff6ebcce893/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:30:55.029 [main] DEBUG com.intuit.karate - response time in milliseconds: 882
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:30:54 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 90
+1 < X-RateLimit-Reset: 1669671061
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 380
+1 < ETag: W/"17c-4by5Jv3c5gRg3c0Siti7231vf94"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"dialog":"We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.","character":"5cd99d4bde30eff6ebccfea0","movie":"5cd95395de30eff6ebccde5d","_id":"5cd96e05de30eff6ebcce893","id":"5cd96e05de30eff6ebcce893"}],"offset":0,"limit":1000,"page":1}
+18:30:55.034 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:51
+Then match $.docs.dialog = "We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return."
+syntax error, expected '==' for match
+classpath:projeto_2/lotr.feature:51
+18:31:35.373 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:31:35.833 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:31:36.003 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:31:37.237 [main] DEBUG com.intuit.karate - response time in milliseconds: 1218
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:31:37 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 99
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 260
+1 < ETag: W/"104-jNjsLom97rEwIuAO0gi264FS+6M"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":3,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"},{"name":"The Two Towers","_id":"5cf58077b53e011a64671583"},{"name":"The Return Of The King","_id":"5cf58080b53e011a64671584"}],"offset":0,"limit":1000,"page":1}
+18:31:37.259 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:13
+Then match $.docs[0].name == 'The Fellowship of the Ring'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'The Fellowship Of The Ring'
+  'The Fellowship of the Ring'
+
+classpath:projeto_2/lotr.feature:13
+18:31:37.279 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:31:37.282 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/1
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:31:38.036 [main] DEBUG com.intuit.karate - response time in milliseconds: 753
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:31:37 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 98
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 51
+1 < ETag: W/"33-r0fzwzg3+n9frpB5Gq1yevB/XwU"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"success":false,"message":"Something went wrong."}
+18:31:38.038 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:22
+Then match $.message == 'Something went wrong'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'Something went wrong.'
+  'Something went wrong'
+
+classpath:projeto_2/lotr.feature:22
+18:31:38.051 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:31:38.054 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/bookk/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:31:38.872 [main] DEBUG com.intuit.karate - response time in milliseconds: 817
+1 < 404
+1 < Date: Mon, 28 Nov 2022 21:31:38 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 97
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: text/html; charset=utf-8
+1 < Content-Length: 24
+1 < ETag: W/"18-PTodgi+inJyKLbdOCG00qQRvY1A"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+Endpoint does not exist.
+18:31:38.887 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:31:38.891 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf5805fb53e011a64671582
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:31:39.687 [main] DEBUG com.intuit.karate - response time in milliseconds: 795
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:31:39 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 96
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 134
+1 < ETag: W/"86-I7v5qLZewBm6kqSZlRMWqSKHi1k"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"}],"offset":0,"limit":1000,"page":1}
+18:31:39.690 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:35
+Then match $.docs.name == 'The Fellowship Of The Ring'
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  'The Fellowship Of The Ring'
+
+classpath:projeto_2/lotr.feature:35
+18:31:39.698 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:31:39.708 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf58080b53e011a64671584/chapter/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:31:40.500 [main] DEBUG com.intuit.karate - response time in milliseconds: 790
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:31:40 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 95
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 1432
+1 < ETag: W/"598-11idL6r0cvK5mIjI4RqLhD9ZaXw"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":19,"pages":1,"docs":[{"chapterName":"Minas Tirith","_id":"6091b6d6d58360f988133bb6"},{"chapterName":"The Passing of the Grey Company","_id":"6091b6d6d58360f988133bb7"},{"chapterName":"The Muster of Rohan","_id":"6091b6d6d58360f988133bb8"},{"chapterName":"The Siege of Gondor","_id":"6091b6d6d58360f988133bb9"},{"chapterName":"The Ride of the Rohirrim","_id":"6091b6d6d58360f988133bba"},{"chapterName":"The Battle of the Pelennor Fields","_id":"6091b6d6d58360f988133bbb"},{"chapterName":"The Pyre of Denethor","_id":"6091b6d6d58360f988133bbc"},{"chapterName":"The Houses of Healing","_id":"6091b6d6d58360f988133bbd"},{"chapterName":"The Last Debate","_id":"6091b6d6d58360f988133bbe"},{"chapterName":"The Black Gate Opens","_id":"6091b6d6d58360f988133bbf"},{"chapterName":"The Tower of Cirith Ungol","_id":"6091b6d6d58360f988133bc0"},{"chapterName":"The Land of Shadow","_id":"6091b6d6d58360f988133bc1"},{"chapterName":"Mount Doom","_id":"6091b6d6d58360f988133bc2"},{"chapterName":"The Field of Cormallen","_id":"6091b6d6d58360f988133bc3"},{"chapterName":"The Steward and the King","_id":"6091b6d6d58360f988133bc4"},{"chapterName":"Many Partings","_id":"6091b6d6d58360f988133bc5"},{"chapterName":"Homeward Bound","_id":"6091b6d6d58360f988133bc6"},{"chapterName":"The Scouring of the Shire","_id":"6091b6d6d58360f988133bc7"},{"chapterName":"The Grey Havens","_id":"6091b6d6d58360f988133bc8"}],"offset":0,"limit":1000,"page":1}
+18:31:40.529 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:31:40.537 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/quote/5cd96e05de30eff6ebcce893/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:31:41.522 [main] DEBUG com.intuit.karate - response time in milliseconds: 984
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:31:41 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 94
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 380
+1 < ETag: W/"17c-4by5Jv3c5gRg3c0Siti7231vf94"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"dialog":"We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.","character":"5cd99d4bde30eff6ebccfea0","movie":"5cd95395de30eff6ebccde5d","_id":"5cd96e05de30eff6ebcce893","id":"5cd96e05de30eff6ebcce893"}],"offset":0,"limit":1000,"page":1}
+18:31:41.533 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:51
+Then match $.docs.dialog == "We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return."
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  'We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.'
+
+classpath:projeto_2/lotr.feature:51
+18:33:09.256 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:33:09.721 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:09.944 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:11.095 [main] DEBUG com.intuit.karate - response time in milliseconds: 1133
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:10 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 91
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 260
+1 < ETag: W/"104-jNjsLom97rEwIuAO0gi264FS+6M"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":3,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"},{"name":"The Two Towers","_id":"5cf58077b53e011a64671583"},{"name":"The Return Of The King","_id":"5cf58080b53e011a64671584"}],"offset":0,"limit":1000,"page":1}
+18:33:11.116 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:13
+Then match $.docs[0].name == 'The Fellowship Of the Ring'
+match failed: EQUALS
+  $ | not equal (STRING:STRING)
+  'The Fellowship Of The Ring'
+  'The Fellowship Of the Ring'
+
+classpath:projeto_2/lotr.feature:13
+18:33:11.133 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:11.136 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/1
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:11.945 [main] DEBUG com.intuit.karate - response time in milliseconds: 808
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:11 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 90
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 51
+1 < ETag: W/"33-r0fzwzg3+n9frpB5Gq1yevB/XwU"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"success":false,"message":"Something went wrong."}
+18:33:11.973 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:11.978 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/bookk/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:12.863 [main] DEBUG com.intuit.karate - response time in milliseconds: 884
+1 < 404
+1 < Date: Mon, 28 Nov 2022 21:33:12 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 89
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: text/html; charset=utf-8
+1 < Content-Length: 24
+1 < ETag: W/"18-PTodgi+inJyKLbdOCG00qQRvY1A"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+Endpoint does not exist.
+18:33:12.870 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:12.873 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf5805fb53e011a64671582
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:13.785 [main] DEBUG com.intuit.karate - response time in milliseconds: 911
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:13 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 88
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 134
+1 < ETag: W/"86-I7v5qLZewBm6kqSZlRMWqSKHi1k"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"}],"offset":0,"limit":1000,"page":1}
+18:33:13.794 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:13.802 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf58080b53e011a64671584/chapter/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:14.637 [main] DEBUG com.intuit.karate - response time in milliseconds: 834
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:14 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 87
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 1432
+1 < ETag: W/"598-11idL6r0cvK5mIjI4RqLhD9ZaXw"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":19,"pages":1,"docs":[{"chapterName":"Minas Tirith","_id":"6091b6d6d58360f988133bb6"},{"chapterName":"The Passing of the Grey Company","_id":"6091b6d6d58360f988133bb7"},{"chapterName":"The Muster of Rohan","_id":"6091b6d6d58360f988133bb8"},{"chapterName":"The Siege of Gondor","_id":"6091b6d6d58360f988133bb9"},{"chapterName":"The Ride of the Rohirrim","_id":"6091b6d6d58360f988133bba"},{"chapterName":"The Battle of the Pelennor Fields","_id":"6091b6d6d58360f988133bbb"},{"chapterName":"The Pyre of Denethor","_id":"6091b6d6d58360f988133bbc"},{"chapterName":"The Houses of Healing","_id":"6091b6d6d58360f988133bbd"},{"chapterName":"The Last Debate","_id":"6091b6d6d58360f988133bbe"},{"chapterName":"The Black Gate Opens","_id":"6091b6d6d58360f988133bbf"},{"chapterName":"The Tower of Cirith Ungol","_id":"6091b6d6d58360f988133bc0"},{"chapterName":"The Land of Shadow","_id":"6091b6d6d58360f988133bc1"},{"chapterName":"Mount Doom","_id":"6091b6d6d58360f988133bc2"},{"chapterName":"The Field of Cormallen","_id":"6091b6d6d58360f988133bc3"},{"chapterName":"The Steward and the King","_id":"6091b6d6d58360f988133bc4"},{"chapterName":"Many Partings","_id":"6091b6d6d58360f988133bc5"},{"chapterName":"Homeward Bound","_id":"6091b6d6d58360f988133bc6"},{"chapterName":"The Scouring of the Shire","_id":"6091b6d6d58360f988133bc7"},{"chapterName":"The Grey Havens","_id":"6091b6d6d58360f988133bc8"}],"offset":0,"limit":1000,"page":1}
+18:33:14.645 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:14.648 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/quote/5cd96e05de30eff6ebcce893/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:15.529 [main] DEBUG com.intuit.karate - response time in milliseconds: 880
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:15 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 86
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 380
+1 < ETag: W/"17c-4by5Jv3c5gRg3c0Siti7231vf94"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"dialog":"We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.","character":"5cd99d4bde30eff6ebccfea0","movie":"5cd95395de30eff6ebccde5d","_id":"5cd96e05de30eff6ebcce893","id":"5cd96e05de30eff6ebcce893"}],"offset":0,"limit":1000,"page":1}
+18:33:15.541 [main] ERROR com.intuit.karate - classpath:projeto_2/lotr.feature:51
+Then match $.docs.dialog == "We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return."
+match failed: EQUALS
+  $ | actual path does not exist (STRING:STRING)
+  '#notpresent'
+  'We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.'
+
+classpath:projeto_2/lotr.feature:51
+18:33:52.503 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:33:52.973 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:53.173 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:54.358 [main] DEBUG com.intuit.karate - response time in milliseconds: 1168
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:54 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 82
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 260
+1 < ETag: W/"104-jNjsLom97rEwIuAO0gi264FS+6M"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":3,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"},{"name":"The Two Towers","_id":"5cf58077b53e011a64671583"},{"name":"The Return Of The King","_id":"5cf58080b53e011a64671584"}],"offset":0,"limit":1000,"page":1}
+18:33:54.389 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:54.392 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/1
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:55.262 [main] DEBUG com.intuit.karate - response time in milliseconds: 869
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:55 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 81
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 51
+1 < ETag: W/"33-r0fzwzg3+n9frpB5Gq1yevB/XwU"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"success":false,"message":"Something went wrong."}
+18:33:55.300 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:55.305 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/bookk/
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:56.184 [main] DEBUG com.intuit.karate - response time in milliseconds: 878
+1 < 404
+1 < Date: Mon, 28 Nov 2022 21:33:56 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 80
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: text/html; charset=utf-8
+1 < Content-Length: 24
+1 < ETag: W/"18-PTodgi+inJyKLbdOCG00qQRvY1A"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+Endpoint does not exist.
+18:33:56.210 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:56.216 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf5805fb53e011a64671582
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:57.106 [main] DEBUG com.intuit.karate - response time in milliseconds: 889
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:56 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 79
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 134
+1 < ETag: W/"86-I7v5qLZewBm6kqSZlRMWqSKHi1k"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"name":"The Fellowship Of The Ring","_id":"5cf5805fb53e011a64671582"}],"offset":0,"limit":1000,"page":1}
+18:33:57.138 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:57.151 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/book/5cf58080b53e011a64671584/chapter/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:58.030 [main] DEBUG com.intuit.karate - response time in milliseconds: 876
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:57 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 78
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 1432
+1 < ETag: W/"598-11idL6r0cvK5mIjI4RqLhD9ZaXw"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":19,"pages":1,"docs":[{"chapterName":"Minas Tirith","_id":"6091b6d6d58360f988133bb6"},{"chapterName":"The Passing of the Grey Company","_id":"6091b6d6d58360f988133bb7"},{"chapterName":"The Muster of Rohan","_id":"6091b6d6d58360f988133bb8"},{"chapterName":"The Siege of Gondor","_id":"6091b6d6d58360f988133bb9"},{"chapterName":"The Ride of the Rohirrim","_id":"6091b6d6d58360f988133bba"},{"chapterName":"The Battle of the Pelennor Fields","_id":"6091b6d6d58360f988133bbb"},{"chapterName":"The Pyre of Denethor","_id":"6091b6d6d58360f988133bbc"},{"chapterName":"The Houses of Healing","_id":"6091b6d6d58360f988133bbd"},{"chapterName":"The Last Debate","_id":"6091b6d6d58360f988133bbe"},{"chapterName":"The Black Gate Opens","_id":"6091b6d6d58360f988133bbf"},{"chapterName":"The Tower of Cirith Ungol","_id":"6091b6d6d58360f988133bc0"},{"chapterName":"The Land of Shadow","_id":"6091b6d6d58360f988133bc1"},{"chapterName":"Mount Doom","_id":"6091b6d6d58360f988133bc2"},{"chapterName":"The Field of Cormallen","_id":"6091b6d6d58360f988133bc3"},{"chapterName":"The Steward and the King","_id":"6091b6d6d58360f988133bc4"},{"chapterName":"Many Partings","_id":"6091b6d6d58360f988133bc5"},{"chapterName":"Homeward Bound","_id":"6091b6d6d58360f988133bc6"},{"chapterName":"The Scouring of the Shire","_id":"6091b6d6d58360f988133bc7"},{"chapterName":"The Grey Havens","_id":"6091b6d6d58360f988133bc8"}],"offset":0,"limit":1000,"page":1}
+18:33:58.059 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:33:58.064 [main] DEBUG com.intuit.karate - request:
+1 > GET https://the-one-api.dev/v2/quote/5cd96e05de30eff6ebcce893/
+1 > Authorization: Bearer 3PbiMTUx_qLB7ZcjW_mG
+1 > Host: the-one-api.dev
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.13 (Java/18.0.2)
+1 > Accept-Encoding: gzip,deflate
+
+
+18:33:58.948 [main] DEBUG com.intuit.karate - response time in milliseconds: 883
+1 < 200
+1 < Date: Mon, 28 Nov 2022 21:33:58 GMT
+1 < Server: Apache/2.4.41 (Ubuntu)
+1 < Content-Security-Policy: default-src 'self';base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+1 < X-DNS-Prefetch-Control: off
+1 < Expect-CT: max-age=0
+1 < X-Frame-Options: SAMEORIGIN
+1 < Strict-Transport-Security: max-age=15552000; includeSubDomains
+1 < X-Download-Options: noopen
+1 < X-Content-Type-Options: nosniff
+1 < X-Permitted-Cross-Domain-Policies: none
+1 < Referrer-Policy: no-referrer
+1 < X-XSS-Protection: 0
+1 < Access-Control-Allow-Origin: *
+1 < X-RateLimit-Limit: 100
+1 < X-RateLimit-Remaining: 77
+1 < X-RateLimit-Reset: 1669671661
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 380
+1 < ETag: W/"17c-4by5Jv3c5gRg3c0Siti7231vf94"
+1 < Keep-Alive: timeout=5, max=100
+1 < Connection: Keep-Alive
+{"total":1,"pages":1,"docs":[{"dialog":"We do not come to treat with Sauron, faithless and accursed. Tell your master this. The armies of Mordor must disband. He is to depart these lands, never to return.","character":"5cd99d4bde30eff6ebccfea0","movie":"5cd95395de30eff6ebccde5d","_id":"5cd96e05de30eff6ebcce893","id":"5cd96e05de30eff6ebcce893"}],"offset":0,"limit":1000,"page":1}
