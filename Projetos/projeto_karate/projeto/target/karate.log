@@ -1,0 +1,9 @@
+18:17:00.255 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '<EOF>' expecting {FEATURE_TAGS, FEATURE}
+18:17:13.889 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:17:31.821 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:20:03.679 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:21:13.452 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:21:35.082 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:22:10.392 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:24:38.700 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
+18:25:07.775 [main] ERROR com.intuit.karate.core.FeatureParser - not a valid feature file: projeto_2/lotr.feature - mismatched input '$' expecting <EOF>
